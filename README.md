@@ -1,6 +1,8 @@
 # Megatron
 
-![megatron](./media/triskele123.png){width=30%}
+![megatron](./media/triskele123.png){width=10%}
+
+<img src="./media/triskele123.png" width="48">
 
 A versatile Node.js, TypeScript, React open-source app for building and managing APIs, manipulating data, and much more.
 
