@@ -1,0 +1,8 @@
+{
+  "name": "megatron-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/narzantaria/megatron-app.git",
+  "author": "Nar Zantaria <narzantaria@gmail.com>",
+  "license": "MIT"
+}
